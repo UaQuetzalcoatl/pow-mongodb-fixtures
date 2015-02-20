@@ -1,3 +1,5 @@
+* Note: This repository was forked to lock package.json to `mongodb v1.3.x`. Changes in the implementation for `mongodb v2.x` prevents fixtures from being dropped.
+
 pow-mongodb-fixtures
 =================
 
